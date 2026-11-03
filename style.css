@@ -1,0 +1,44 @@
+body {
+    background-color: white;
+    color: DimGray;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+    line-height: 1.5em;
+}
+
+#title-wrapper {
+    text-align: center;
+}
+
+.headline {
+    font-size: 3em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    margin-top: 80px;
+    margin-bottom: 60px;
+}
+
+#main-wrapper {
+    width: 800px;
+    position: relative;
+    margin: auto;
+}
+
+.black {
+    color: black;
+}
+
+.yellow {
+    color: GoldenRod;
+}
+
+#footer {
+    text-align: center;
+    font-size: 0.7em;
+    margin-top: 60px;
+    padding-bottom: 30px;
+}
+
+canvas {
+    display: block;
+}
