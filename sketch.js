@@ -1,13 +1,10 @@
 let plantImages = [];
 let canImages = [];
 let dropImage;
-
 let plantX = 400;
 let plantY = 320;
-
 let canX = 0;
 let canY = 0;
-
 let water = 0;
 let dropY = 0;
 
